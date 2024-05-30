@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T09:55:41.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="MR_xL3Rvo-h8iumns1BW" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T09:58:48.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="rPwnPvFEx79Xpauw9T2c" version="24.4.10" type="github">
   <diagram name="Page-1" id="dV5N11vVSOUmYvaY2hAZ">
-    <mxGraphModel dx="1050" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WSbgD0awSJrO2DfcoSY0-1" value="Single Worker --&amp;gt; Success case --&amp;gt; How we are going to commit" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry width="850" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
